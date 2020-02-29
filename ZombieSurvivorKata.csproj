@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>ZombieSurvivorKata_Feb2020</RootNamespace>
+    <RootNamespace>ZombieSurvivorKata</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
